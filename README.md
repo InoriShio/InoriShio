@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A388DB&center=true&width=435&lines=Welcome+to+my+Github;This+is+InoriShio's...;Code+hell%F0%9F%92%96;Disclaimer+self+learning+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A388DB&width=435&lines=Welcome+to+my+Github;This+is+InoriShio's+code+hell;Disclaimer+self+learning+code)](https://git.io/typing-svg)
 
 <!--
 **InoriShio/InoriShio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
